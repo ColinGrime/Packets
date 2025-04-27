@@ -1,0 +1,6 @@
+name: Packets
+main: me.colingrimes.packets.Packets
+version: ${version}
+api-version: 1.21
+author: Scill
+depend: [Midnight]
